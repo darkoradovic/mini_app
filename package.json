@@ -8,7 +8,10 @@
     "@testing-library/user-event": "^7.2.1",
     "react": "^16.13.1",
     "react-dom": "^16.13.1",
-    "react-scripts": "3.4.3"
+    "react-responsive-carousel": "^3.2.9",
+    "react-reveal": "^1.2.2",
+    "react-scripts": "3.4.3",
+    "react-swipy": "0.0.6"
   },
   "scripts": {
     "start": "react-scripts start",
